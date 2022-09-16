@@ -1,0 +1,10 @@
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\bin\Debug\waitingforyou.exe.config
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\bin\Debug\waitingforyou.exe
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\bin\Debug\waitingforyou.pdb
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\obj\Debug\waitingforyou.csproj.AssemblyReference.cache
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\obj\Debug\waitingforyou.Form1.resources
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\obj\Debug\waitingforyou.Properties.Resources.resources
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\obj\Debug\waitingforyou.csproj.GenerateResource.cache
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\obj\Debug\waitingforyou.csproj.CoreCompileInputs.cache
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\obj\Debug\waitingforyou.exe
+C:\Users\vovv0\Desktop\snek\waitingforyou\waitingforyou\obj\Debug\waitingforyou.pdb
